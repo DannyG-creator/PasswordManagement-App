@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/passwords"
+        android:icon="@drawable/ic_dehaze_black_24dp"
+        android:title="Passwords"/>
+
+
+    <item
+        android:id="@+id/generate"
+        android:icon="@drawable/ic_build_black_24dp"
+        android:title="Generate"/>
+</menu>

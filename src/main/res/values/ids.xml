@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ic_back" type="id" />
+    <item name="ic_connect" type="id" />
+    <item name="ic_logo" type="id" />
+    <item name="ic_help" type="id" />
+</resources>
